@@ -1,2 +1,2 @@
 # EasyATS
-EasyATS is an advanced web-based application designed to help users create ATS (Applicant Tracking System)-friendly resumes.
+EasyATS is an advanced web-based application designed to help users create ATS (Applicant Tracking System)-friendly resumes. The platform simplifies the process of resume generation by enabling users to upload their existing resumes, paste job descriptions, and even add links to their profiles (e.g., GitHub, LinkedIn, personal websites). The application processes the input and generates an ATS-optimized resume that is simplified for readability and formatted for ATS compatibility. The resume is then outputted in a downloadable PDF format, ready for job applications.
